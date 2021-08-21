@@ -18,6 +18,7 @@ Connect with me on LinkedIn.
 ---
 
 Prontamente subiré todos los repositorios con readme
+
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 
 ----
@@ -43,7 +44,7 @@ Prontamente subiré todos los repositorios con readme
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://user-images.githubusercontent.com/84600360/130335407-e8c54018-fd50-41b2-9c47-877321b2a60b.png" height="20"/></a>
 <a href="https://github.com/" title="GitHub"><img src="https://user-images.githubusercontent.com/84600360/130335385-7a274dd7-23d1-4970-abef-02a6714372ae.png" height="20"/></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" height="20"/></a>
+
 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="https://user-images.githubusercontent.com/84600360/130335413-7189a8fa-3ac8-4c13-a95b-8c86cd9b07ab.png" height="20"/></a>
 
