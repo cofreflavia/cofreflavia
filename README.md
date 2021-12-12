@@ -17,7 +17,7 @@ Connect with me on LinkedIn.
 
 ---
 
-Prontamente subiré todos los repositorios con readme
+Pronto subiré todos los repositorios con readme
 
 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 
