@@ -3,7 +3,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cofreflavia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=flaviacofre" alt="visitors">
 </p>
 
 ---
@@ -37,14 +36,6 @@ Mi base proviene del desarrollo backend, donde he gestionado desde la arquitectu
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-41B883?style=for-the-badge&logo=yii&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cofreflavia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cofreflavia&layout=compact&theme=gotham" />
-</p>
 
 ---
 
